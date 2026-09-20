@@ -1,0 +1,982 @@
+[
+  {
+    "id": "m1",
+    "grade": "5",
+    "subject": "math",
+    "quarter": "1",
+    "q": "25 + 17 nechaga teng?",
+    "a": "42",
+    "options": [
+      "42",
+      "40",
+      "43",
+      "52"
+    ]
+  },
+  {
+    "id": "m2",
+    "grade": "5",
+    "subject": "math",
+    "quarter": "1",
+    "q": "8 × 7 nechaga teng?",
+    "a": "56",
+    "options": [
+      "56",
+      "54",
+      "64",
+      "48"
+    ]
+  },
+  {
+    "id": "m3",
+    "grade": "5",
+    "subject": "math",
+    "quarter": "1",
+    "q": "100 ning 25 foizi nechaga teng?",
+    "a": "25",
+    "options": [
+      "25",
+      "20",
+      "30",
+      "15"
+    ]
+  },
+  {
+    "id": "m4",
+    "grade": "5",
+    "subject": "math",
+    "quarter": "2",
+    "q": "3x + 6 = 21 bo'lsa, x nechaga teng?",
+    "a": "5",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ]
+  },
+  {
+    "id": "m5",
+    "grade": "6",
+    "subject": "math",
+    "quarter": "2",
+    "q": "2/3 + 1/3 nechaga teng?",
+    "a": "1",
+    "options": [
+      "1",
+      "2/3",
+      "1/3",
+      "3/2"
+    ]
+  },
+  {
+    "id": "m6",
+    "grade": "7",
+    "subject": "math",
+    "quarter": "3",
+    "q": "x² = 81 tenglamaning musbat yechimi?",
+    "a": "9",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "6"
+    ]
+  },
+  {
+    "id": "m7",
+    "grade": "8",
+    "subject": "math",
+    "quarter": "3",
+    "q": "To'g'ri burchakli uchburchak katetlari 3 va 4 bo'lsa, gipotenuza nechaga teng?",
+    "a": "5",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ]
+  },
+  {
+    "id": "m8",
+    "grade": "9",
+    "subject": "math",
+    "quarter": "4",
+    "q": "x² - 5x + 6 = 0 tenglamaning ildizlari qaysilar?",
+    "a": "2 va 3",
+    "options": [
+      "2 va 3",
+      "1 va 6",
+      "-2 va -3",
+      "3 va 4"
+    ]
+  },
+  {
+    "id": "m9",
+    "grade": "10",
+    "subject": "math",
+    "quarter": "4",
+    "q": "f(x)=2x+3 bo'lsa, f(4) nechaga teng?",
+    "a": "11",
+    "options": [
+      "11",
+      "10",
+      "9",
+      "12"
+    ]
+  },
+  {
+    "id": "m10",
+    "grade": "11",
+    "subject": "math",
+    "quarter": "4",
+    "q": "2^5 nechaga teng?",
+    "a": "32",
+    "options": [
+      "32",
+      "25",
+      "16",
+      "64"
+    ]
+  },
+  {
+    "id": "u1",
+    "grade": "5",
+    "subject": "uzbek",
+    "quarter": "1",
+    "q": "Ot qanday so'roqlarga javob bo'ladi?",
+    "a": "Kim? Nima?",
+    "options": [
+      "Kim? Nima?",
+      "Qanday?",
+      "Nima qildi?",
+      "Qancha?"
+    ]
+  },
+  {
+    "id": "u2",
+    "grade": "5",
+    "subject": "uzbek",
+    "quarter": "1",
+    "q": "'Chiroyli' so'zi qaysi so'z turkumiga kiradi?",
+    "a": "Sifat",
+    "options": [
+      "Sifat",
+      "Ot",
+      "Fe'l",
+      "Olmosh"
+    ]
+  },
+  {
+    "id": "u3",
+    "grade": "6",
+    "subject": "uzbek",
+    "quarter": "2",
+    "q": "Fe'l nimani bildiradi?",
+    "a": "Harakat va holatni",
+    "options": [
+      "Harakat va holatni",
+      "Predmetni",
+      "Belgini",
+      "Sonni"
+    ]
+  },
+  {
+    "id": "u4",
+    "grade": "7",
+    "subject": "uzbek",
+    "quarter": "2",
+    "q": "Gapning asosiy bo'laklari qaysilar?",
+    "a": "Ega va kesim",
+    "options": [
+      "Ega va kesim",
+      "Aniqlovchi va hol",
+      "To'ldiruvchi va aniqlovchi",
+      "Hol va kesim"
+    ]
+  },
+  {
+    "id": "u5",
+    "grade": "8",
+    "subject": "uzbek",
+    "quarter": "3",
+    "q": "Qo'shma gap nima?",
+    "a": "Ikki yoki undan ortiq grammatik asosli gap",
+    "options": [
+      "Ikki yoki undan ortiq grammatik asosli gap",
+      "Faqat bitta so'z",
+      "Faqat ega va kesim",
+      "Faqat undov gap"
+    ]
+  },
+  {
+    "id": "u6",
+    "grade": "9",
+    "subject": "uzbek",
+    "quarter": "3",
+    "q": "Sinonim so'zlar qanday so'zlar?",
+    "a": "Ma'nodosh so'zlar",
+    "options": [
+      "Ma'nodosh so'zlar",
+      "Qarama-qarshi so'zlar",
+      "Shakldosh so'zlar",
+      "Faqat omonimlar"
+    ]
+  },
+  {
+    "id": "u7",
+    "grade": "10",
+    "subject": "uzbek",
+    "quarter": "4",
+    "q": "Publitsistik uslubning asosiy xususiyati nima?",
+    "a": "Jamoatchilikka ta'sir va axborot berish",
+    "options": [
+      "Jamoatchilikka ta'sir va axborot berish",
+      "Faqat ilmiy formula",
+      "Faqat badiiy tasvir",
+      "Faqat og'zaki suhbat"
+    ]
+  },
+  {
+    "id": "u8",
+    "grade": "11",
+    "subject": "uzbek",
+    "quarter": "4",
+    "q": "Sintaksis nimani o'rganadi?",
+    "a": "So'z birikmasi va gap tuzilishini",
+    "options": [
+      "So'z birikmasi va gap tuzilishini",
+      "Faqat tovushlarni",
+      "Faqat lug'atni",
+      "Faqat imloni"
+    ]
+  },
+  {
+    "id": "l1",
+    "grade": "5",
+    "subject": "literature",
+    "quarter": "1",
+    "q": "She'rning asosiy belgilaridan biri nima?",
+    "a": "Misralarga bo'linishi",
+    "options": [
+      "Misralarga bo'linishi",
+      "Faqat dialogdan iboratligi",
+      "Faqat ilmiy bo'lishi",
+      "Faqat rasm bo'lishi"
+    ]
+  },
+  {
+    "id": "l2",
+    "grade": "6",
+    "subject": "literature",
+    "quarter": "1",
+    "q": "Ertak qanday janr?",
+    "a": "Xalq og'zaki ijodi janri",
+    "options": [
+      "Xalq og'zaki ijodi janri",
+      "Ilmiy maqola",
+      "Rasmiy hujjat",
+      "Lug'at"
+    ]
+  },
+  {
+    "id": "l3",
+    "grade": "7",
+    "subject": "literature",
+    "quarter": "2",
+    "q": "Tashbeh nima?",
+    "a": "Bir narsani ikkinchi narsaga o'xshatish",
+    "options": [
+      "Bir narsani ikkinchi narsaga o'xshatish",
+      "Voqeani qisqartirish",
+      "Savol berish",
+      "So'zlarni sanash"
+    ]
+  },
+  {
+    "id": "l4",
+    "grade": "8",
+    "subject": "literature",
+    "quarter": "2",
+    "q": "Syujet nima?",
+    "a": "Asardagi voqealar tizimi",
+    "options": [
+      "Asardagi voqealar tizimi",
+      "Muallif tarjimai holi",
+      "Kitobning hajmi",
+      "Faqat sarlavha"
+    ]
+  },
+  {
+    "id": "l5",
+    "grade": "9",
+    "subject": "literature",
+    "quarter": "3",
+    "q": "Lirik asarlarda asosan nima ifodalanadi?",
+    "a": "His-tuyg'u va kechinmalar",
+    "options": [
+      "His-tuyg'u va kechinmalar",
+      "Faqat tarixiy sana",
+      "Matematik formula",
+      "Qonunlar"
+    ]
+  },
+  {
+    "id": "l6",
+    "grade": "10",
+    "subject": "literature",
+    "quarter": "4",
+    "q": "Obraz tushunchasi nimani anglatadi?",
+    "a": "Badiiy asarda yaratilgan timsol",
+    "options": [
+      "Badiiy asarda yaratilgan timsol",
+      "Faqat muallif ismi",
+      "Faqat kitob nomi",
+      "Grammatik qoida"
+    ]
+  },
+  {
+    "id": "e1",
+    "grade": "5",
+    "subject": "english",
+    "quarter": "1",
+    "q": "Choose the correct form: She ___ a student.",
+    "a": "is",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ]
+  },
+  {
+    "id": "e2",
+    "grade": "5",
+    "subject": "english",
+    "quarter": "1",
+    "q": "What is the plural of 'book'?",
+    "a": "books",
+    "options": [
+      "books",
+      "bookes",
+      "book",
+      "bookses"
+    ]
+  },
+  {
+    "id": "e3",
+    "grade": "6",
+    "subject": "english",
+    "quarter": "2",
+    "q": "Choose the correct sentence.",
+    "a": "I went to school yesterday.",
+    "options": [
+      "I went to school yesterday.",
+      "I go to school yesterday.",
+      "I going school yesterday.",
+      "I gone school yesterday."
+    ]
+  },
+  {
+    "id": "e4",
+    "grade": "7",
+    "subject": "english",
+    "quarter": "2",
+    "q": "Comparative form of 'good'?",
+    "a": "better",
+    "options": [
+      "better",
+      "gooder",
+      "best",
+      "more good"
+    ]
+  },
+  {
+    "id": "e5",
+    "grade": "8",
+    "subject": "english",
+    "quarter": "3",
+    "q": "Choose the correct Present Perfect sentence.",
+    "a": "She has finished her work.",
+    "options": [
+      "She has finished her work.",
+      "She finish her work.",
+      "She finishing her work.",
+      "She have finish her work."
+    ]
+  },
+  {
+    "id": "e6",
+    "grade": "9",
+    "subject": "english",
+    "quarter": "3",
+    "q": "Choose the correct passive sentence.",
+    "a": "The book was written by him.",
+    "options": [
+      "The book was written by him.",
+      "The book wrote by him.",
+      "The book is write by him.",
+      "The book writing him."
+    ]
+  },
+  {
+    "id": "e7",
+    "grade": "10",
+    "subject": "english",
+    "quarter": "4",
+    "q": "Choose the correct conditional sentence.",
+    "a": "If I had known, I would have helped.",
+    "options": [
+      "If I had known, I would have helped.",
+      "If I know, I would helped.",
+      "If I knew, I will have helped.",
+      "If I had know, I help."
+    ]
+  },
+  {
+    "id": "e8",
+    "grade": "11",
+    "subject": "english",
+    "quarter": "4",
+    "q": "Which word is closest in meaning to 'essential'?",
+    "a": "necessary",
+    "options": [
+      "necessary",
+      "optional",
+      "rare",
+      "ordinary"
+    ]
+  },
+  {
+    "id": "h1",
+    "grade": "5",
+    "subject": "history",
+    "quarter": "1",
+    "q": "Qadimgi Misr qaysi daryo bo'yida rivojlangan?",
+    "a": "Nil",
+    "options": [
+      "Nil",
+      "Amudaryo",
+      "Volga",
+      "Dunay"
+    ]
+  },
+  {
+    "id": "h2",
+    "grade": "6",
+    "subject": "history",
+    "quarter": "1",
+    "q": "Qadimgi yunon shaharlari qanday atalgan?",
+    "a": "Polis",
+    "options": [
+      "Polis",
+      "Satraplik",
+      "Viloyat",
+      "Xonlik"
+    ]
+  },
+  {
+    "id": "h3",
+    "grade": "7",
+    "subject": "history",
+    "quarter": "2",
+    "q": "Buyuk Ipak yo'li nimani bog'lagan?",
+    "a": "Sharq va G'arbni",
+    "options": [
+      "Sharq va G'arbni",
+      "Faqat Afrikani",
+      "Faqat Amerikani",
+      "Faqat Avstraliyani"
+    ]
+  },
+  {
+    "id": "h4",
+    "grade": "8",
+    "subject": "history",
+    "quarter": "2",
+    "q": "Amir Temur davlatining poytaxti qaysi shahar edi?",
+    "a": "Samarqand",
+    "options": [
+      "Samarqand",
+      "Buxoro",
+      "Xiva",
+      "Toshkent"
+    ]
+  },
+  {
+    "id": "h5",
+    "grade": "9",
+    "subject": "history",
+    "quarter": "3",
+    "q": "Ikkinchi jahon urushi qaysi yillarda davom etgan?",
+    "a": "1939–1945",
+    "options": [
+      "1939–1945",
+      "1914–1918",
+      "1920–1925",
+      "1946–1950"
+    ]
+  },
+  {
+    "id": "h6",
+    "grade": "10",
+    "subject": "history",
+    "quarter": "4",
+    "q": "BMT qachon tashkil topgan?",
+    "a": "1945-yil",
+    "options": [
+      "1945-yil",
+      "1919-yil",
+      "1939-yil",
+      "1955-yil"
+    ]
+  },
+  {
+    "id": "g1",
+    "grade": "5",
+    "subject": "geography",
+    "quarter": "1",
+    "q": "Yer yuzidagi eng katta okean qaysi?",
+    "a": "Tinch okeani",
+    "options": [
+      "Tinch okeani",
+      "Atlantika okeani",
+      "Hind okeani",
+      "Shimoliy Muz okeani"
+    ]
+  },
+  {
+    "id": "g2",
+    "grade": "5",
+    "subject": "geography",
+    "quarter": "1",
+    "q": "Eng katta materik qaysi?",
+    "a": "Yevrosiyo",
+    "options": [
+      "Yevrosiyo",
+      "Afrika",
+      "Avstraliya",
+      "Antarktida"
+    ]
+  },
+  {
+    "id": "g3",
+    "grade": "6",
+    "subject": "geography",
+    "quarter": "2",
+    "q": "Ekvator Yer sharini qanday qismlarga ajratadi?",
+    "a": "Shimoliy va Janubiy yarimsharga",
+    "options": [
+      "Shimoliy va Janubiy yarimsharga",
+      "Sharqiy va G'arbiy yarimsharga",
+      "Faqat qit'alarga",
+      "Tog' va tekislikka"
+    ]
+  },
+  {
+    "id": "g4",
+    "grade": "7",
+    "subject": "geography",
+    "quarter": "2",
+    "q": "Atmosferaning asosiy tarkibiy qismi qaysi gaz?",
+    "a": "Azot",
+    "options": [
+      "Azot",
+      "Kislorod",
+      "Vodorod",
+      "Karbonat angidrid"
+    ]
+  },
+  {
+    "id": "g5",
+    "grade": "8",
+    "subject": "geography",
+    "quarter": "3",
+    "q": "Iqlim nima?",
+    "a": "Uzoq yillar davomida kuzatiladigan ob-havo xususiyati",
+    "options": [
+      "Uzoq yillar davomida kuzatiladigan ob-havo xususiyati",
+      "Bir kunlik ob-havo",
+      "Faqat shamol",
+      "Faqat yog'ingarchilik"
+    ]
+  },
+  {
+    "id": "g6",
+    "grade": "10",
+    "subject": "geography",
+    "quarter": "4",
+    "q": "Aholi zichligi qanday aniqlanadi?",
+    "a": "Aholi sonini hudud maydoniga bo'lish orqali",
+    "options": [
+      "Aholi sonini hudud maydoniga bo'lish orqali",
+      "Maydonni aholiga ko'paytirish orqali",
+      "Aholi sonini ikki baravar oshirish orqali",
+      "Faqat tug'ilish soni bilan"
+    ]
+  },
+  {
+    "id": "p1",
+    "grade": "6",
+    "subject": "physics",
+    "quarter": "1",
+    "q": "Tezlikning SI dagi birligi qaysi?",
+    "a": "m/s",
+    "options": [
+      "m/s",
+      "kg",
+      "N",
+      "J"
+    ]
+  },
+  {
+    "id": "p2",
+    "grade": "7",
+    "subject": "physics",
+    "quarter": "1",
+    "q": "Kuchning SI dagi birligi?",
+    "a": "Nyuton",
+    "options": [
+      "Nyuton",
+      "Joul",
+      "Vatt",
+      "Paskal"
+    ]
+  },
+  {
+    "id": "p3",
+    "grade": "7",
+    "subject": "physics",
+    "quarter": "2",
+    "q": "Bosim formulasi qaysi?",
+    "a": "p = F/S",
+    "options": [
+      "p = F/S",
+      "p = FS",
+      "p = S/F",
+      "p = F+S"
+    ]
+  },
+  {
+    "id": "p4",
+    "grade": "8",
+    "subject": "physics",
+    "quarter": "2",
+    "q": "Elektr toki kuchining birligi?",
+    "a": "Amper",
+    "options": [
+      "Amper",
+      "Volt",
+      "Om",
+      "Vatt"
+    ]
+  },
+  {
+    "id": "p5",
+    "grade": "9",
+    "subject": "physics",
+    "quarter": "3",
+    "q": "Om qonuni qaysi formula bilan ifodalanadi?",
+    "a": "I = U/R",
+    "options": [
+      "I = U/R",
+      "I = UR",
+      "I = R/U",
+      "I = U+R"
+    ]
+  },
+  {
+    "id": "p6",
+    "grade": "10",
+    "subject": "physics",
+    "quarter": "4",
+    "q": "Yorug'lik tezligi vakuumda taxminan qancha?",
+    "a": "300 000 km/s",
+    "options": [
+      "300 000 km/s",
+      "30 000 km/s",
+      "3 000 km/s",
+      "3 000 000 km/s"
+    ]
+  },
+  {
+    "id": "c1",
+    "grade": "7",
+    "subject": "chemistry",
+    "quarter": "1",
+    "q": "Suvning kimyoviy formulasi?",
+    "a": "H₂O",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ]
+  },
+  {
+    "id": "c2",
+    "grade": "7",
+    "subject": "chemistry",
+    "quarter": "1",
+    "q": "Kislorodning kimyoviy belgisi?",
+    "a": "O",
+    "options": [
+      "O",
+      "H",
+      "C",
+      "N"
+    ]
+  },
+  {
+    "id": "c3",
+    "grade": "8",
+    "subject": "chemistry",
+    "quarter": "2",
+    "q": "NaCl qanday modda?",
+    "a": "Natriy xlorid",
+    "options": [
+      "Natriy xlorid",
+      "Kalsiy karbonat",
+      "Vodorod",
+      "Kislorod"
+    ]
+  },
+  {
+    "id": "c4",
+    "grade": "8",
+    "subject": "chemistry",
+    "quarter": "2",
+    "q": "Kimyoviy reaksiya natijasida nima hosil bo'lishi mumkin?",
+    "a": "Yangi moddalar",
+    "options": [
+      "Yangi moddalar",
+      "Faqat suv",
+      "Faqat gaz",
+      "Hech narsa"
+    ]
+  },
+  {
+    "id": "c5",
+    "grade": "9",
+    "subject": "chemistry",
+    "quarter": "3",
+    "q": "CO₂ molekulasida nechta kislorod atomi bor?",
+    "a": "2",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "id": "c6",
+    "grade": "10",
+    "subject": "chemistry",
+    "quarter": "4",
+    "q": "pH = 7 bo'lgan muhit qanday?",
+    "a": "Neytral",
+    "options": [
+      "Neytral",
+      "Kislotali",
+      "Ishqoriy",
+      "Metallik"
+    ]
+  },
+  {
+    "id": "b1",
+    "grade": "5",
+    "subject": "biology",
+    "quarter": "1",
+    "q": "O'simliklarning yashil rangini beruvchi pigment?",
+    "a": "Xlorofill",
+    "options": [
+      "Xlorofill",
+      "Gemoglobin",
+      "Melanin",
+      "Keratin"
+    ]
+  },
+  {
+    "id": "b2",
+    "grade": "6",
+    "subject": "biology",
+    "quarter": "1",
+    "q": "Inson yuragi nechta bo'lmachadan tashkil topgan?",
+    "a": "4",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ]
+  },
+  {
+    "id": "b3",
+    "grade": "7",
+    "subject": "biology",
+    "quarter": "2",
+    "q": "Fotosintez jarayonida o'simliklar qaysi gazni yutadi?",
+    "a": "Karbonat angidrid",
+    "options": [
+      "Karbonat angidrid",
+      "Azot",
+      "Vodorod",
+      "Geliy"
+    ]
+  },
+  {
+    "id": "b4",
+    "grade": "8",
+    "subject": "biology",
+    "quarter": "2",
+    "q": "Qonning qaysi hujayralari kislorod tashiydi?",
+    "a": "Eritrotsitlar",
+    "options": [
+      "Eritrotsitlar",
+      "Leykotsitlar",
+      "Trombotsitlar",
+      "Neyronlar"
+    ]
+  },
+  {
+    "id": "b5",
+    "grade": "9",
+    "subject": "biology",
+    "quarter": "3",
+    "q": "DNKning asosiy vazifalaridan biri nima?",
+    "a": "Irsiy axborotni saqlash",
+    "options": [
+      "Irsiy axborotni saqlash",
+      "Faqat energiya ishlab chiqarish",
+      "Ovqat hazm qilish",
+      "Qonni haydash"
+    ]
+  },
+  {
+    "id": "b6",
+    "grade": "10",
+    "subject": "biology",
+    "quarter": "4",
+    "q": "Gen nima?",
+    "a": "Irsiy axborotning funksional birligi",
+    "options": [
+      "Irsiy axborotning funksional birligi",
+      "Hujayra devori",
+      "Organ",
+      "Fermentning o'zi"
+    ]
+  },
+  {
+    "id": "i1",
+    "grade": "5",
+    "subject": "informatics",
+    "quarter": "1",
+    "q": "Kompyuterning asosiy hisoblash qurilmasi?",
+    "a": "Protsessor",
+    "options": [
+      "Protsessor",
+      "Monitor",
+      "Klaviatura",
+      "Printer"
+    ]
+  },
+  {
+    "id": "i2",
+    "grade": "5",
+    "subject": "informatics",
+    "quarter": "1",
+    "q": "HTML nimani yaratishda ishlatiladi?",
+    "a": "Veb sahifa tuzilishini",
+    "options": [
+      "Veb sahifa tuzilishini",
+      "Faqat rasm chizishni",
+      "Faqat audio yozishni",
+      "Operatsion tizimni"
+    ]
+  },
+  {
+    "id": "i3",
+    "grade": "6",
+    "subject": "informatics",
+    "quarter": "2",
+    "q": "CSS asosan nima uchun ishlatiladi?",
+    "a": "Veb sahifa dizayni uchun",
+    "options": [
+      "Veb sahifa dizayni uchun",
+      "Server sotib olish uchun",
+      "Kompyuterni yoqish uchun",
+      "Virus yaratish uchun"
+    ]
+  },
+  {
+    "id": "i4",
+    "grade": "7",
+    "subject": "informatics",
+    "quarter": "2",
+    "q": "Algoritm nima?",
+    "a": "Masalani yechish uchun ketma-ket ko'rsatmalar",
+    "options": [
+      "Masalani yechish uchun ketma-ket ko'rsatmalar",
+      "Faqat dastur nomi",
+      "Kompyuter qurilmasi",
+      "Internet tarmog'i"
+    ]
+  },
+  {
+    "id": "i5",
+    "grade": "8",
+    "subject": "informatics",
+    "quarter": "3",
+    "q": "JavaScript veb sahifada ko'proq nima uchun ishlatiladi?",
+    "a": "Interaktivlik va dasturlash uchun",
+    "options": [
+      "Interaktivlik va dasturlash uchun",
+      "Faqat rang tanlash uchun",
+      "Faqat matn yozish uchun",
+      "Monitorni boshqarish uchun"
+    ]
+  },
+  {
+    "id": "i6",
+    "grade": "9",
+    "subject": "informatics",
+    "quarter": "3",
+    "q": "Binary sanoq sistemasida nechta raqam ishlatiladi?",
+    "a": "2",
+    "options": [
+      "2",
+      "8",
+      "10",
+      "16"
+    ]
+  },
+  {
+    "id": "i7",
+    "grade": "10",
+    "subject": "informatics",
+    "quarter": "4",
+    "q": "Big-O notation nimani ifodalaydi?",
+    "a": "Algoritm murakkabligining o'sish tartibini",
+    "options": [
+      "Algoritm murakkabligining o'sish tartibini",
+      "Fayl hajmini",
+      "Monitor o'lchamini",
+      "Internet tezligini"
+    ]
+  },
+  {
+    "id": "i8",
+    "grade": "11",
+    "subject": "informatics",
+    "quarter": "4",
+    "q": "HTTP nimaga xizmat qiladi?",
+    "a": "Veb ma'lumot almashinuvi uchun",
+    "options": [
+      "Veb ma'lumot almashinuvi uchun",
+      "Rasm tahrirlash uchun",
+      "Antivirus sifatida",
+      "Operativ xotira sifatida"
+    ]
+  }
+]
