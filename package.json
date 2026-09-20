@@ -1,0 +1,9 @@
+{
+  "name": "edutest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EduTest — online assessment platform (Node.js + Vercel Serverless)",
+  "dependencies": {
+    "@vercel/kv": "^1.0.1"
+  }
+}
